@@ -1,0 +1,15 @@
+D:\Новая папка (2)\C#_Projects\Dom_zad_01\obj\Debug\net6.0\Dom_zad_01.csproj.AssemblyReference.cache
+D:\Новая папка (2)\C#_Projects\Dom_zad_01\obj\Debug\net6.0\Dom_zad_01.GeneratedMSBuildEditorConfig.editorconfig
+D:\Новая папка (2)\C#_Projects\Dom_zad_01\obj\Debug\net6.0\Dom_zad_01.AssemblyInfoInputs.cache
+D:\Новая папка (2)\C#_Projects\Dom_zad_01\obj\Debug\net6.0\Dom_zad_01.AssemblyInfo.cs
+D:\Новая папка (2)\C#_Projects\Dom_zad_01\obj\Debug\net6.0\Dom_zad_01.csproj.CoreCompileInputs.cache
+D:\Новая папка (2)\C#_Projects\Dom_zad_01\bin\Debug\net6.0\Dom_zad_01.exe
+D:\Новая папка (2)\C#_Projects\Dom_zad_01\bin\Debug\net6.0\Dom_zad_01.deps.json
+D:\Новая папка (2)\C#_Projects\Dom_zad_01\bin\Debug\net6.0\Dom_zad_01.runtimeconfig.json
+D:\Новая папка (2)\C#_Projects\Dom_zad_01\bin\Debug\net6.0\Dom_zad_01.dll
+D:\Новая папка (2)\C#_Projects\Dom_zad_01\bin\Debug\net6.0\Dom_zad_01.pdb
+D:\Новая папка (2)\C#_Projects\Dom_zad_01\obj\Debug\net6.0\Dom_zad_01.dll
+D:\Новая папка (2)\C#_Projects\Dom_zad_01\obj\Debug\net6.0\refint\Dom_zad_01.dll
+D:\Новая папка (2)\C#_Projects\Dom_zad_01\obj\Debug\net6.0\Dom_zad_01.pdb
+D:\Новая папка (2)\C#_Projects\Dom_zad_01\obj\Debug\net6.0\Dom_zad_01.genruntimeconfig.cache
+D:\Новая папка (2)\C#_Projects\Dom_zad_01\obj\Debug\net6.0\ref\Dom_zad_01.dll
