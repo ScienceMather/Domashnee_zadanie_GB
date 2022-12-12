@@ -1,0 +1,15 @@
+D:\Рабочий стол\C#_Dom_ZAD\Dom_zad_07\obj\Debug\net6.0\Dom_zad_07.csproj.AssemblyReference.cache
+D:\Рабочий стол\C#_Dom_ZAD\Dom_zad_07\obj\Debug\net6.0\Dom_zad_07.GeneratedMSBuildEditorConfig.editorconfig
+D:\Рабочий стол\C#_Dom_ZAD\Dom_zad_07\obj\Debug\net6.0\Dom_zad_07.AssemblyInfoInputs.cache
+D:\Рабочий стол\C#_Dom_ZAD\Dom_zad_07\obj\Debug\net6.0\Dom_zad_07.AssemblyInfo.cs
+D:\Рабочий стол\C#_Dom_ZAD\Dom_zad_07\obj\Debug\net6.0\Dom_zad_07.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\C#_Dom_ZAD\Dom_zad_07\bin\Debug\net6.0\Dom_zad_07.exe
+D:\Рабочий стол\C#_Dom_ZAD\Dom_zad_07\bin\Debug\net6.0\Dom_zad_07.deps.json
+D:\Рабочий стол\C#_Dom_ZAD\Dom_zad_07\bin\Debug\net6.0\Dom_zad_07.runtimeconfig.json
+D:\Рабочий стол\C#_Dom_ZAD\Dom_zad_07\bin\Debug\net6.0\Dom_zad_07.dll
+D:\Рабочий стол\C#_Dom_ZAD\Dom_zad_07\bin\Debug\net6.0\Dom_zad_07.pdb
+D:\Рабочий стол\C#_Dom_ZAD\Dom_zad_07\obj\Debug\net6.0\Dom_zad_07.dll
+D:\Рабочий стол\C#_Dom_ZAD\Dom_zad_07\obj\Debug\net6.0\refint\Dom_zad_07.dll
+D:\Рабочий стол\C#_Dom_ZAD\Dom_zad_07\obj\Debug\net6.0\Dom_zad_07.pdb
+D:\Рабочий стол\C#_Dom_ZAD\Dom_zad_07\obj\Debug\net6.0\Dom_zad_07.genruntimeconfig.cache
+D:\Рабочий стол\C#_Dom_ZAD\Dom_zad_07\obj\Debug\net6.0\ref\Dom_zad_07.dll
