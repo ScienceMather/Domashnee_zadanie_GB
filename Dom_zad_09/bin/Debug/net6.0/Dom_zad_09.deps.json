@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Dom_zad_09/1.0.0": {
+        "runtime": {
+          "Dom_zad_09.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dom_zad_09/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
