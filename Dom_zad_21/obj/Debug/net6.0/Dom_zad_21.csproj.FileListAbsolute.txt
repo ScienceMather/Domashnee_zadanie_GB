@@ -1,0 +1,15 @@
+D:\Рабочий стол\C#_Dom_ZAD\Dom_zad_21\bin\Debug\net6.0\Dom_zad_21.exe
+D:\Рабочий стол\C#_Dom_ZAD\Dom_zad_21\bin\Debug\net6.0\Dom_zad_21.deps.json
+D:\Рабочий стол\C#_Dom_ZAD\Dom_zad_21\bin\Debug\net6.0\Dom_zad_21.runtimeconfig.json
+D:\Рабочий стол\C#_Dom_ZAD\Dom_zad_21\bin\Debug\net6.0\Dom_zad_21.dll
+D:\Рабочий стол\C#_Dom_ZAD\Dom_zad_21\bin\Debug\net6.0\Dom_zad_21.pdb
+D:\Рабочий стол\C#_Dom_ZAD\Dom_zad_21\obj\Debug\net6.0\Dom_zad_21.csproj.AssemblyReference.cache
+D:\Рабочий стол\C#_Dom_ZAD\Dom_zad_21\obj\Debug\net6.0\Dom_zad_21.GeneratedMSBuildEditorConfig.editorconfig
+D:\Рабочий стол\C#_Dom_ZAD\Dom_zad_21\obj\Debug\net6.0\Dom_zad_21.AssemblyInfoInputs.cache
+D:\Рабочий стол\C#_Dom_ZAD\Dom_zad_21\obj\Debug\net6.0\Dom_zad_21.AssemblyInfo.cs
+D:\Рабочий стол\C#_Dom_ZAD\Dom_zad_21\obj\Debug\net6.0\Dom_zad_21.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\C#_Dom_ZAD\Dom_zad_21\obj\Debug\net6.0\Dom_zad_21.dll
+D:\Рабочий стол\C#_Dom_ZAD\Dom_zad_21\obj\Debug\net6.0\refint\Dom_zad_21.dll
+D:\Рабочий стол\C#_Dom_ZAD\Dom_zad_21\obj\Debug\net6.0\Dom_zad_21.pdb
+D:\Рабочий стол\C#_Dom_ZAD\Dom_zad_21\obj\Debug\net6.0\Dom_zad_21.genruntimeconfig.cache
+D:\Рабочий стол\C#_Dom_ZAD\Dom_zad_21\obj\Debug\net6.0\ref\Dom_zad_21.dll
