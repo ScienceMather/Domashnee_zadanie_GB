@@ -20,5 +20,5 @@ int Rekyrsion(int rek)
 }
 
 int rekyrs =GetNumber("VVedite N: ");
-int result =Rekyrsion(chislo,stepen);
-// Console.WriteLine($"{result}");
+Console.Write($"{rekyrs}");
+int result =Rekyrsion(rekyrs);
