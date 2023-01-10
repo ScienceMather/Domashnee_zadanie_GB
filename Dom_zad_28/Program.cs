@@ -6,23 +6,21 @@
 }
 
 
-int Rekyrsion(int m,int n)
+int Rekyrsion(int start,int end)
 {
+    if (start==end) return start;
+    else
     {
-        if (m==0) return n+1;
-        else
-        {
-            if (m>0 && n==0) return Rekyrsion(m-1,1);
-            else if (m>0 && n>0) return Rekyrsion(m-1,Rekyrsion(m,n-1));
-        }
-        
+        end=end%10+Rekyrsion(start,end-1);
+        // Console.Write($"{end},");
+        return end;
     }
-    return n;
     
 }
 
 
-int MM=GetNumber("VVedite M: ");
-int NN =GetNumber("VVedite N: ");
-int result =Rekyrsion(MM,NN);
+
+int start =GetNumber("VVedite SN: ");
+int end =GetNumber("VVedite EN: ");
+int result =Rekyrsion(start,end);
 Console.WriteLine($"{result}");

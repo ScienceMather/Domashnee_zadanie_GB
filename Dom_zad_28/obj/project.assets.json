@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Рабочий стол\\C#_Dom_ZAD\\Dom_zad_28\\Dom_zad_28.csproj",
-      "projectName": "Dom_zad_28",
-      "projectPath": "D:\\Рабочий стол\\C#_Dom_ZAD\\Dom_zad_28\\Dom_zad_28.csproj",
+      "projectUniqueName": "D:\\Рабочий стол\\C#_Dom_ZAD\\Dom_zad_27\\Dom_zad_27.csproj",
+      "projectName": "Dom_zad_27",
+      "projectPath": "D:\\Рабочий стол\\C#_Dom_ZAD\\Dom_zad_27\\Dom_zad_27.csproj",
       "packagesPath": "C:\\Users\\Белка\\.nuget\\packages\\",
-      "outputPath": "D:\\Рабочий стол\\C#_Dom_ZAD\\Dom_zad_28\\obj\\",
+      "outputPath": "D:\\Рабочий стол\\C#_Dom_ZAD\\Dom_zad_27\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Белка\\AppData\\Roaming\\NuGet\\NuGet.Config"

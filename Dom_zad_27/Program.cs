@@ -1,26 +1,24 @@
-﻿int GetNumber(string text)
+﻿
+int GetNumber(string text)
 {
     Console.WriteLine(text);
     int numb =int.Parse(Console.ReadLine());
     return numb;
 }
 
-
-int Rekyrsion(int start,int end)
+int Rekyrsion(int rek)
 {
-    if (start==end) return start;
+
+    if (rek==1) return rek;
     else
     {
-        end=end%10+Rekyrsion(start,end-1);
-        // Console.Write($"{end},");
-        return end;
+        Console.Write($",{rek-1}");
+        Rekyrsion(rek-1);
+        return rek;
     }
     
 }
 
-
-
-int start =GetNumber("VVedite SN: ");
-int end =GetNumber("VVedite EN: ");
-int result =Rekyrsion(start,end);
-Console.WriteLine($"{result}");
+int rekyrs =GetNumber("VVedite N: ");
+Console.Write($"{rekyrs}");
+int result =Rekyrsion(rekyrs);
